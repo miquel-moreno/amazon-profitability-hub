@@ -3,6 +3,7 @@
 Herramienta interna de Ionea Global (e-commerce en Amazon) que calcula cuánto gana de verdad cada producto, cruzando ventas, comisiones, costes y publicidad.
 
 > Código privado. Las capturas usan el modo demostración, con datos ficticios.
+> Muestra del código, con tests, en [`sample/`](sample/).
 
 ![Resumen del panel](./images/resumen.png)
 
