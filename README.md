@@ -1,6 +1,6 @@
 # Amazon Profitability Hub · Beneficio real por producto
 
-Herramienta interna de Ionea Global (e-commerce en Amazon) que calcula cuánto gana de verdad cada producto, cruzando ventas, comisiones, costes y publicidad.
+Herramienta interna para una marca que vende en Amazon: calcula cuánto gana de verdad cada producto, cruzando ventas, comisiones, costes y publicidad.
 
 > Código privado. Las capturas usan el modo demostración, con datos ficticios.
 > Muestra del código, con tests, en [`sample/`](sample/).
