@@ -13,6 +13,8 @@ Calcula cuánto gana **de verdad** cada producto de una marca que vende en Amazo
 - Indica el **gasto máximo en publicidad** antes de perder dinero (ACOS de equilibrio).
 - Avisa de **roturas de stock** y envía un resumen diario.
 
+![Rentabilidad por producto](./images/rentabilidad.png)
+
 ## Stack
 
 Python · Amazon SP-API y Ads API · OAuth 2.0 · SQL · pytest
